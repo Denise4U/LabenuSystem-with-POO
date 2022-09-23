@@ -1,8 +1,8 @@
 # LabenuSystem-with-POO
-Sistema beckend que represente o básico de uma organização educacional.
+Sistema beckend que representa o básico de uma organização educacional.
 
 
-Ele possui, ao menos, as 3 entidades importantes:
+Ele possui, ao menos, 3 entidades importantes:
 
 ### 1. Estudantes
 
